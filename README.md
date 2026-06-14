@@ -8,3 +8,4 @@ V0.0.1 only contains the following features within the calculator engine module.
 5.Percentage (variable a is % of variable b)
 6.Exponentiation (5 ^ 2 = 25)
 
+V.0.0.2 will contain module geo_engine to perform geometric calculations.
